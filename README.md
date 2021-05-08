@@ -1,4 +1,4 @@
-<b># Summary</b>
+Summary
 
 Hello there!
 <br>My name is Kirill, it's good that you came here!</br>
