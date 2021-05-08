@@ -2,8 +2,9 @@ Summary
 
 Hello there!
 <br>My name is Kirill, it's good that you came here!</br>
-I will tell you a little bit about myself.
+<br>I will tell you a little bit about myself!</br>
 At the moment, I am mastering the profession of Software Testing.
-I have prepared several of my projects for you and I really want you to look at them! 
-Let's do that!
+I have prepared several of my projects for you and I really want you to look at them!
+
+<br><font color = "green" size = "8">But now, I have a couple things for you, please look!</font></br>
 
